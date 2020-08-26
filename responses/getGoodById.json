@@ -1,6 +1,9 @@
 {
   "result": 1,
-  "product_name": "Ноутбук",
-  "product_price": 45600,
-  "product_description": "Мощный игровой ноутбук"
+  "id_product": 3,
+  "title": "Mango T-shirt3",
+  "color": "Blue",
+  "size": "XXL",
+  "unitPrice": 800,
+  "shipping": "FREE"
 }
